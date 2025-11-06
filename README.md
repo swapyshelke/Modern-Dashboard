@@ -47,7 +47,7 @@ To get started follow these steps:
 Using CLI
 
 ```bash
-git clone https://github.com/xdcode2/dashboard-ui-design.git
+git clone https://github.com/swapycodes/Modern-dashboard.git
 ```
 
 **\*\*_Ensure you have installed [Git](https://git-scm.com) on your machine._**
